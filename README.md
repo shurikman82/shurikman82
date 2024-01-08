@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shurikman82
 - 👀 I’m interested in Python's backend
-- 🌱 I’m currently learning on yandex practicum
-- 💞️ I’m looking to collaborate on web-development on django
+- 💞️ I’m looking to collaborate on web-development on django, DRF
 - 📫 How to reach me shurik.82rusanov@yandex.ru
 
 <!---
