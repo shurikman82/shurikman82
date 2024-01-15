@@ -1,7 +1,7 @@
 <h3 align="left">About me:</h3>
-- 👋 Hi, I’m Alexander Rusanov, Backend Developer
-- 👀 I’m interested in Python's backend
-- 💞️ I’m looking to collaborate on backend-development on django, DRF
+- 👋 Hi, I’m Alexander Rusanov, Backend Developer<br>
+- 👀 I’m interested in Python's backend<br>
+- 💞️ I’m looking to collaborate on backend-development on django, DRF<br>
 - 📫 How to reach me shurik.82rusanov@yandex.ru, tg:@shurikrusanov
 
 <!---
