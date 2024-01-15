@@ -1,3 +1,4 @@
+<h3 align="left">About me:</h3>
 - 👋 Hi, I’m Alexander Rusanov, Backend Developer
 - 👀 I’m interested in Python's backend
 - 💞️ I’m looking to collaborate on backend-development on django, DRF
