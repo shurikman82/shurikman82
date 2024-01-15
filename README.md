@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Alexander Rusanov, Backend Developer<br>
 - 👀 I’m interested in Python's backend<br>
 - 💞️ I’m looking to collaborate on backend-development on django, DRF<br>
-- 📫 How to reach me shurik.82rusanov@yandex.ru, tg:@shurikrusanov
+- 📫 How to reach me: shurik.82rusanov@yandex.ru, tg:@shurikrusanov
 
 <!---
 shurikman82/shurikman82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
